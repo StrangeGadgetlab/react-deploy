@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -9,7 +8,7 @@ function App() {
       
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
     <div className="container">
-      <a className="navbar-brand js-scroll-trigger" href="#page-top"><b>You can invite ZukBot <a href="https://top.gg/bot/720752022395158538">here</a></b></a>
+      <a className="navbar-brand js-scroll-trigger" href="#page-top"><b>You can invite ZukBot <a href="https://top.gg/bot/720752022395158538">here</a></b></a> 
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
@@ -28,9 +27,7 @@ function App() {
       </div>
     </div>
   </nav>
-
-  <header className="bg-primary text-black">
-  <a><img src="/images/d2edc046149cb37214869fa23cac4856.jpeg" alt="" /></a>
+    <header className="bg-primary text-black">
     <div className="container text-center">
       <h1>Welcome To ZukBot's Website!</h1>
       <p className="lead"><b>Here you will learn about ZukBot and understand how to use it.</b></p>
